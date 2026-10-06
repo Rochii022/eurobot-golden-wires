@@ -12,12 +12,9 @@ Official software and technical documentation repository for the **Golden Wires*
 * **Computer Vision & Navigation:** OpenCV, ArUco Markers Detection, Image Processing
 * **Design & Prototyping:** Solid Edge, SketchUp, 3D Printing
 
-## 📂 Repository Structure
-
-```text
-├── vision/                   # ArUco marker detection & image processing scripts (Python/OpenCV)
-├── movement/                 # Microcontroller logic, motor control & sensor integration (C/C++)
-├── communications/           # MAC Addresses & raspberry-espCam communication
-├── repository-media-files/   # Photos of the proyect
-└── README.md
-
+## ⚙️ Repository Structure
+* `vision/` -> ArUco marker detection & image processing scripts (Python/OpenCV)
+* `movement/` -> Microcontroller logic, motor control & sensor integration (C/C++)
+* `communications/` -> MAC Addresses & raspberry-espCam communication
+* `repository-media-files/` -> Photos of the proyect
+* `README.md`
