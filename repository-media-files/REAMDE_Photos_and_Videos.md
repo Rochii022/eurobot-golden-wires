@@ -12,3 +12,8 @@ Video explaining the technical specifications of our proyect (Spanish audio)
 Various pictures of the proyect development =)
 
 ![Robots 2026](robots2026.jpg)
+![Process of the Robot](robot_process.jpg)
+![3D Cover for the robot](3D_cover.jpg)
+![Testing for pieces recognition](hsv_test.jpg)
+![General recognition in playing mat](playing_mat_pieces_recognition.jpg)
+![Robot movement](movement.mp4)
