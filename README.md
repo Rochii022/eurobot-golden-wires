@@ -3,6 +3,7 @@
 Official software and technical documentation repository for the **Golden Wires** robotics team for the international **Eurobot** competition (3x International Finals qualifiers in France).
 
 ---
+![Robots 2026 Competition](repository-media-files/robots2026.jpg)
 
 ## 🛠️ Tech Stack & Technologies
 
@@ -11,11 +12,12 @@ Official software and technical documentation repository for the **Golden Wires*
 * **Computer Vision & Navigation:** OpenCV, ArUco Markers Detection, Image Processing
 * **Design & Prototyping:** Solid Edge, SketchUp, 3D Printing
 
----
-
 ## 📂 Repository Structure
 
 ```text
-├── vision/               # ArUco marker detection & image processing scripts (Python/OpenCV)
-├── firmware/             # Microcontroller logic, motor control & sensor integration
+├── vision/                   # ArUco marker detection & image processing scripts (Python/OpenCV)
+├── movement/                 # Microcontroller logic, motor control & sensor integration (C/C++)
+├── communications/           # MAC Addresses & raspberry-espCam communication
+├── repository-media-files/   # Photos of the proyect
 └── README.md
+
